@@ -24,7 +24,7 @@ main{
 }
 .step-item1{
   height: 150px;
-  background-image: url(img1/flow01.png);
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
